@@ -1,0 +1,19 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+td {
+    width: 5vw;
+   text-align: center;
+   border: solid black;
+}
+.noborder {
+    border:none;
+}
+.headingone{
+    background: yellow;
+    text-align: center;
+     padding: 0vw;
+    font-size: 5vw;
+}
